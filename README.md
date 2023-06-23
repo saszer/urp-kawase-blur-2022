@@ -1,6 +1,6 @@
 ## Kawase Blur
 
-Making Compaible with unity 2022, not backwards compatible. View forkef from previous creds.
+Making Compaible with unity 2022, not backwards compatible. View forked from for previous creds.
 
 
 ### Renderer Extension for Universal Render Pipeline
