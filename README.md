@@ -1,6 +1,7 @@
 ## Kawase Blur
 
-Please note, the original creator of this repository (sebastianhein) did not license it. This means the code is technically copyrighted, so should not be used in a commercial environment.
+Making Compaible with unity 2022, not backwards compatible. View forkef from previous creds.
+
 
 ### Renderer Extension for Universal Render Pipeline
 
@@ -25,8 +26,9 @@ Download this project using the releases tab. The unitypackage contains all the 
 
 
 ### Video Tutorial
-I've created a video tutorial on how to install and use this package. Check it out:
-[![Tutorial Thumbnail](http://img.youtube.com/vi/BIKUSU7nz20/0.jpg)](http://www.youtube.com/watch?v=BIKUSU7nz20 "Blur / Frosted Glass in the Unity Universal Render Pipeline (URP) for Free!")
+[https://www.youtube.com/watch?v=QhasSbe7Xes](https://www.youtube.com/watch?v=QhasSbe7Xes)
+</br>
+[http://www.youtube.com/watch?v=BIKUSU7nz20](http://www.youtube.com/watch?v=BIKUSU7nz20 "Blur / Frosted Glass in the Unity Universal Render Pipeline (URP) for Free!")
 
 
 ### Notice
